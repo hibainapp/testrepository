@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace SampleProjectUsingGit
 {
-    class Program
+   public class Program
     {
        public static void Main(string[] args)
         {
+            int i = 0;
         }
     }
 }
