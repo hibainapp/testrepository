@@ -10,7 +10,7 @@ namespace SampleProjectUsingGit
     {
        public static void Main(string[] args)
         {
-            int j = 0;
+            int t = 0;
         }
     }
 }
